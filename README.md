@@ -1,2 +1,2 @@
-# spotify-
+# amazon-
 my first clone project
